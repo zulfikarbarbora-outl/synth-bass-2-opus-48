@@ -1,0 +1,59 @@
+// === Preview SFZ (Opus 48k) ===
+// Auto-generated from SynthBass2 20210405.sfz
+// Original: https://raw.githubusercontent.com/zulfikarbarbora-outl/synth-bass-2/main/SynthBass2%2020210405.sfz
+// All sample= paths now point to .opus files in this repo
+
+//+ Name: Synth Bass 2
+//+ Date: 2021-04-05
+//+ URL: http://freepats.zenvoid.org/Synthesizer/synth-bass.html#SynthBass2
+
+<global>
+ //+ Instrument: Synth Bass 2
+ ampeg_release=0.5
+
+<group>
+<region>
+ lokey=28
+ hikey=38
+ pitch_keycenter=36
+ sample=samples/C2.opus
+<region>
+ lokey=39
+ hikey=44
+ pitch_keycenter=42
+ sample=samples/F#2.opus
+<region>
+ lokey=45
+ hikey=50
+ pitch_keycenter=48
+ sample=samples/C3.opus
+<region>
+ lokey=51
+ hikey=56
+ pitch_keycenter=54
+ sample=samples/F#3.opus
+<region>
+ lokey=57
+ hikey=62
+ pitch_keycenter=60
+ sample=samples/C4.opus
+<region>
+ lokey=63
+ hikey=68
+ pitch_keycenter=66
+ sample=samples/F#4.opus
+<region>
+ lokey=69
+ hikey=74
+ pitch_keycenter=72
+ sample=samples/C5.opus
+<region>
+ lokey=75
+ hikey=80
+ pitch_keycenter=78
+ sample=samples/F#5.opus
+<region>
+ lokey=81
+ hikey=88
+ pitch_keycenter=84
+ sample=samples/C6.opus
