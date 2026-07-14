@@ -1,0 +1,127 @@
+{
+  "library": "synth-bass-2",
+  "format": "opus-48k",
+  "sourceRepo": "https://github.com/zulfikarbarbora-outl/synth-bass-2",
+  "previewRepo": "https://github.com/zulfikarbarbora-outl/synth-bass-2-opus-48",
+  "branch": "main",
+  "fileCount": 9,
+  "baseUrl": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synth-bass-2-opus-48/main/",
+  "files": [
+    {
+      "file": "C2.opus",
+      "name": "C2.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synth-bass-2-opus-48/main/C2.opus",
+      "size": 67327,
+      "note": "C2",
+      "midiNote": 36,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "C3.opus",
+      "name": "C3.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synth-bass-2-opus-48/main/C3.opus",
+      "size": 38731,
+      "note": "C3",
+      "midiNote": 48,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "C4.opus",
+      "name": "C4.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synth-bass-2-opus-48/main/C4.opus",
+      "size": 28099,
+      "note": "C4",
+      "midiNote": 60,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "C5.opus",
+      "name": "C5.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synth-bass-2-opus-48/main/C5.opus",
+      "size": 20976,
+      "note": "C5",
+      "midiNote": 72,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "C6.opus",
+      "name": "C6.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synth-bass-2-opus-48/main/C6.opus",
+      "size": 17570,
+      "note": "C6",
+      "midiNote": 84,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Fs2.opus",
+      "name": "Fs2.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synth-bass-2-opus-48/main/Fs2.opus",
+      "size": 48464,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Fs3.opus",
+      "name": "Fs3.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synth-bass-2-opus-48/main/Fs3.opus",
+      "size": 35398,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Fs4.opus",
+      "name": "Fs4.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synth-bass-2-opus-48/main/Fs4.opus",
+      "size": 23155,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Fs5.opus",
+      "name": "Fs5.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synth-bass-2-opus-48/main/Fs5.opus",
+      "size": 19983,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    }
+  ],
+  "byNote": {
+    "36": [
+      "C2.opus"
+    ],
+    "48": [
+      "C3.opus"
+    ],
+    "60": [
+      "C4.opus"
+    ],
+    "72": [
+      "C5.opus"
+    ],
+    "84": [
+      "C6.opus"
+    ]
+  }
+}
