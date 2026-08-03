@@ -1,27 +1,13 @@
-# synth-bass-2-opus-48
+# Audio Data Collection
 
-Opus 48 kbps previews for the **synth-bass-2** sample library.
+Audio files in Opus 48k format with metadata index.
 
-## About
+## Contents
 
-- **Files**: 9 Opus previews
-- **Bitrate**: 48 kbps VBR
-- **Container**: Ogg Opus (.opus)
-- **Source**: [`zulfikarbarbora-outl/synth-bass-2`](https://github.com/zulfikarbarbora-outl/synth-bass-2)
-- **Branch**: `main`
+- `index.json` — metadata index
+- `*.opus` — audio files
+- `validate.py` — validation script
 
-## URL pattern
+## License
 
-```
-https://raw.githubusercontent.com/zulfikarbarbora-outl/synth-bass-2-opus-48/main/<filename>.opus
-```
-
-## Verification
-
-```bash
-python3 verify.py
-```
-
-## Index
-
-See [`index.json`](./index.json) for the full file catalog.
+CC0-1.0 / Public Domain
